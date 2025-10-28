@@ -46,3 +46,5 @@ Data Source
 The data used in this project is publicly available from the World Health Organization (WHO), compiled and hosted on Kaggle by Kumar Ajay Arshi.
 
 📎 Download the original dataset here → Kaggle: Life Expectancy (WHO)
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
